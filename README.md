@@ -36,7 +36,14 @@ In this lab you will be investigating the Phong illumination model implemented v
 
 5. **Challenge** Modify the Phong shader so that textures are used instead of vertex colours.
 
+<p align="middle">
+  <img src="Gifs/Q5.gif">
+</p>
+
 6. **Challenge** The ‘PointLight’ entity that is presently used is not a standard Unity light.
 Investigate how you could modify or extend the Phong shader to incorporate Unity lights.
 
+<p align="middle">
+  <img src="Gifs/Q6.gif">
+</p>
 
